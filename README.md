@@ -6,7 +6,7 @@ An interactive Power BI dashboard built to analyze customer churn and explore th
 
 ## Dashboard
 
-![Bank Customer Churn Analysis](Bank_Customer_Churn_Dashboard.png)
+![Bank Customer Churn Analysis]([Bank_Customer_Churn_Dashboard.png](https://app.powerbi.com/groups/edfdc755-7eb2-4158-a01b-e89cd1a2d9d8/reports/1ea07940-3cad-48b9-82b9-78ad12696789/51a75cdb14b0727c1a8a?experience=power-bi&clientSideAuth=0))
 
 ## Analysis
 
